@@ -1,0 +1,12 @@
+{
+ "replace": {
+  "assets/u8_developer_config.properties": "specs/u8dev.properties"
+ },
+ "add": {
+  "classes7.dex": "build/inject/classes.dex",
+  "lib/arm64-v8a/libakpatch.so": "build/inject/libakpatch.so"
+ },
+ "fixed_record_len": {
+  "classes7.dex": 65536
+ }
+}

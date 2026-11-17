@@ -1,0 +1,9 @@
+build/
+tmp/
+*.apk
+*.idsig
+*.dex
+*.so
+*.jar
+local.properties
+.DS_Store
